@@ -4,8 +4,8 @@
 ## Lazy Version
 
 * code:
-    * 1-tbrain_datahandle_lazy.ipynb [[1-tbrain_datahandle_lazy.ipynb]]
-    * 2-tbrain_model_ML_lazy.ipynb [[2-tbrain_model_ML_lazy.ipynb]]
+    * [[1-tbrain_datahandle_lazy.ipynb]](1-tbrain_datahandle_lazy.ipynb)
+    * [[2-tbrain_model_ML_lazy.ipynb]](2-tbrain_model_ML_lazy.ipynb)
     
 * Submit F1-score:
     * Max ~0.53
@@ -13,8 +13,8 @@
 ## More Delicate Version
 
 * code:
-    * 1-tbrain_datahandle.ipynb [[1-tbrain_datahandle.ipynb]]
-    * 2-tbrain_model_ML.ipynb [[2-tbrain_model_ML.ipynb]]
+    * [[1-tbrain_datahandle.ipynb]](1-tbrain_datahandle.ipynb)
+    * [[2-tbrain_model_ML.ipynb]](2-tbrain_model_ML.ipynb)
 
 * add:
     * Up/Down Sampling
